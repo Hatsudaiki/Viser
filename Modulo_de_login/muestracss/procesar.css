@@ -1,0 +1,32 @@
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+  }
+  body {
+    min-height: 100vh;
+    background-image: url(../asset/imagenes/by\ waneella.png);
+  }
+  .espacio {
+    padding: 10% 40%;
+  }
+
+p{
+    color: white;
+}
+.botton{
+
+    padding: 10px 40px;
+    border: none;
+    font-size: 14px;
+    background: #0f9615;
+    color: white;
+    cursor: pointer;
+    font-size: 14px;
+    font-weight: 600;
+  
+
+}
+   
